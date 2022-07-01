@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="k_sans_log.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="balls sans intro0000" x="20" y="20" width="461" height="469"/>
+	<SubTexture name="balls sans intro0001" x="501" y="20" width="461" height="469"/>
+	<SubTexture name="balls sans intro0002" x="982" y="20" width="461" height="469"/>
+	<SubTexture name="balls sans intro0003" x="1463" y="20" width="461" height="469"/>
+	<SubTexture name="balls sans intro0004" x="20" y="509" width="461" height="469"/>
+	<SubTexture name="balls sans intro0005" x="501" y="509" width="461" height="469"/>
+	<SubTexture name="balls sans intro0006" x="982" y="509" width="461" height="469"/>
+	<SubTexture name="balls sans intro0007" x="1463" y="509" width="461" height="469"/>
+	<SubTexture name="balls sans intro0008" x="20" y="998" width="461" height="469"/>
+	<SubTexture name="balls sans intro0009" x="501" y="998" width="461" height="469"/>
+	<SubTexture name="balls sans intro0010" x="982" y="998" width="461" height="469"/>
+	<SubTexture name="balls sans intro0011" x="1463" y="998" width="461" height="469"/>
+	<SubTexture name="balls sans intro0012" x="20" y="1487" width="461" height="469"/>
+	<SubTexture name="balls sans intro0013" x="501" y="1487" width="461" height="469"/>
+	<SubTexture name="balls sans intro0014" x="982" y="1487" width="461" height="469"/>
+</TextureAtlas>

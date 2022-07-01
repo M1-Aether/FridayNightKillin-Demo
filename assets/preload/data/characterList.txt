@@ -1,0 +1,10 @@
+chara
+killer-sans
+killer-sans-phase1
+presans
+prechara
+prekiller
+gaster
+bf
+gf
+dad

@@ -1,0 +1,16 @@
+{
+    "songs": [
+        ["Voided", "gaster", [0, 0, 0]]
+    ],
+
+    "weekBackground": "void",
+
+    "storyName": "THE MAN WHO SPEAKS IN HANDS",
+    "weekBefore": "weekPresent1",
+    "weekName": "GASTER WEEK",
+    "startUnlocked": true,
+    "difficulties": "hard",
+
+    "hideStoryMode": false,
+    "hideFreeplay": false
+}

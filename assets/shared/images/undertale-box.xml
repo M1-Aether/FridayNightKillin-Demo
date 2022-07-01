@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="undertale-box.png">
+<SubTexture name="undertale-box red0000" x="0" y="0" width="590" height="164" frameX="-2" frameY="-2" frameWidth="594" frameHeight="168" />
+<SubTexture name="undertale-box white0000" x="0" y="164" width="578" height="152" frameX="-8" frameY="-8" frameWidth="590" frameHeight="164" />
+</TextureAtlas>

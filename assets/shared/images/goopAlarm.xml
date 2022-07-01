@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goopAlarm.png">
+<SubTexture name="goop idle0000" x="711" y="180" width="120" height="125" frameX="-440" frameY="-186" frameWidth="1000" frameHeight="500" />
+<SubTexture name="goop idle0001" x="711" y="0" width="167" height="180" frameX="-417" frameY="-159" frameWidth="1000" frameHeight="500" />
+<SubTexture name="goop idle0002" x="496" y="363" width="191" height="203" frameX="-406" frameY="-148" frameWidth="1000" frameHeight="500" />
+<SubTexture name="goop idle0003" x="272" y="363" width="224" height="236" frameX="-390" frameY="-132" frameWidth="1000" frameHeight="500" />
+<SubTexture name="goop idle0004" x="0" y="363" width="272" height="283" frameX="-365" frameY="-109" frameWidth="1000" frameHeight="500" />
+<SubTexture name="goop idle0005" x="380" y="0" width="331" height="338" frameX="-336" frameY="-82" frameWidth="1000" frameHeight="500" />
+<SubTexture name="goop idle0006" x="0" y="0" width="380" height="363" frameX="-312" frameY="-70" frameWidth="1000" frameHeight="500" />
+<SubTexture name="goop idle0007" x="380" y="0" width="331" height="338" frameX="-336" frameY="-82" frameWidth="1000" frameHeight="500" />
+<SubTexture name="goop idle0008" x="0" y="363" width="272" height="283" frameX="-365" frameY="-109" frameWidth="1000" frameHeight="500" />
+<SubTexture name="goop idle0009" x="272" y="363" width="224" height="236" frameX="-390" frameY="-132" frameWidth="1000" frameHeight="500" />
+<SubTexture name="goop idle0010" x="496" y="363" width="191" height="203" frameX="-406" frameY="-148" frameWidth="1000" frameHeight="500" />
+<SubTexture name="goop idle0011" x="711" y="0" width="167" height="180" frameX="-417" frameY="-159" frameWidth="1000" frameHeight="500" />
+<SubTexture name="goop idle0012" x="711" y="180" width="120" height="125" frameX="-440" frameY="-186" frameWidth="1000" frameHeight="500" />
+</TextureAtlas>

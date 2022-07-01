@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				11
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sans left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-11
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sans down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				35
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sans up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				17
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sans right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sans idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/killer-sans-funny-phase-1",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "killer1",
+	"flip_x": false,
+	"healthbar_colors": [
+		57,
+		61,
+		110
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

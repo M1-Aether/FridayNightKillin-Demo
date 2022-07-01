@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-74
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chara DOWN0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				108
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chara UP0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "chara idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-339,
+				-204
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "chara LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				305,
+				-206
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "chara RIGHT0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/prequelkiller_CHARA_ASSETS",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "darkchara",
+	"flip_x": true,
+	"healthbar_colors": [
+		235,
+		0,
+		0
+	],
+	"camera_position": [
+		-140,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

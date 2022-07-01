@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				405,
+				61
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "gaster left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-39,
+				-93
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "gaster down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-18,
+				44
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "gaster up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				338,
+				123
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "gaster right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 13,
+			"name": "gaster idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "appear",
+			"loop": false,
+			"name": "gaster appear"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gaster",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "gaster",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		-290,
+		-320
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

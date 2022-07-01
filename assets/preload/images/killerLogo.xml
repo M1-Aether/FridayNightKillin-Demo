@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="killerLogo.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo_bumpin0000" x="20" y="20" width="690" height="427"/>
+	<SubTexture name="logo_bumpin0001" x="730" y="20" width="690" height="427"/>
+	<SubTexture name="logo_bumpin0002" x="1440" y="20" width="690" height="427"/>
+	<SubTexture name="logo_bumpin0003" x="2150" y="20" width="690" height="427"/>
+	<SubTexture name="logo_bumpin0004" x="2860" y="20" width="690" height="427"/>
+	<SubTexture name="logo_bumpin0005" x="20" y="467" width="690" height="427"/>
+	<SubTexture name="logo_bumpin0006" x="730" y="467" width="690" height="427"/>
+	<SubTexture name="logo_bumpin0007" x="1440" y="467" width="690" height="427"/>
+	<SubTexture name="logo_bumpin0008" x="2150" y="467" width="690" height="427"/>
+	<SubTexture name="logo_bumpin0009" x="2860" y="467" width="690" height="427"/>
+	<SubTexture name="logo_bumpin0010" x="20" y="914" width="690" height="427"/>
+	<SubTexture name="logo_bumpin0011" x="730" y="914" width="690" height="427"/>
+	<SubTexture name="logo_bumpin0012" x="1440" y="914" width="690" height="427"/>
+	<SubTexture name="logo_bumpin0013" x="2150" y="914" width="690" height="427"/>
+	<SubTexture name="logo_bumpin0014" x="2860" y="914" width="690" height="427"/>
+</TextureAtlas>

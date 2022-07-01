@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="textline2.png"><SubTexture name="textline2 idle0000" x="0" y="0" width="1829" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0001" x="0" y="51" width="1813" height="51" frameX="-9" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0002" x="0" y="102" width="1792" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0003" x="0" y="153" width="1762" height="51" frameX="-67" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0004" x="0" y="204" width="1792" height="51" frameX="-37" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0005" x="0" y="255" width="1814" height="51" frameX="-7" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0006" x="0" y="306" width="1829" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0007" x="0" y="357" width="1829" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0008" x="0" y="408" width="1829" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0009" x="0" y="459" width="1814" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0010" x="0" y="510" width="1784" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0011" x="0" y="561" width="1778" height="51" frameX="-51" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0012" x="0" y="612" width="1805" height="51" frameX="-21" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0013" x="0" y="663" width="1829" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0014" x="0" y="714" width="1827" height="51" frameX="-2" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0015" x="0" y="765" width="1818" height="51" frameX="-9" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0016" x="0" y="816" width="1829" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0017" x="0" y="867" width="1822" height="51" frameX="-2" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0018" x="0" y="918" width="1829" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0019" x="0" y="969" width="1820" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0020" x="0" y="1020" width="1829" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0021" x="0" y="1071" width="1814" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0022" x="0" y="1122" width="1784" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0023" x="0" y="1173" width="1804" height="51" frameX="-25" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0024" x="0" y="1224" width="1829" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0025" x="0" y="1275" width="1829" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0026" x="0" y="1326" width="1826" height="51" frameX="-3" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0027" x="0" y="1377" width="1828" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0028" x="0" y="1428" width="1798" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0029" x="0" y="1479" width="1768" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0030" x="0" y="1530" width="1784" height="51" frameX="-45" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0031" x="0" y="1581" width="1814" height="51" frameX="-15" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0032" x="0" y="1632" width="1818" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0033" x="0" y="1683" width="1829" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0034" x="0" y="1734" width="1829" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0035" x="1829" y="0" width="1829" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0036" x="1829" y="51" width="1829" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+<SubTexture name="textline2 idle0037" x="1829" y="102" width="1829" height="51" frameX="0" frameY="-4" frameWidth="1829" frameHeight="64" />
+</TextureAtlas>

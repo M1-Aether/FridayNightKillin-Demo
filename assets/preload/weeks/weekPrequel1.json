@@ -1,0 +1,16 @@
+{
+	"songs": [
+		["The Deal", "darkchara", [230, 0, 0]]
+	],
+
+	"weekBackground": "prequel",
+
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "Week Prequel 1",
+	"difficulties": "hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

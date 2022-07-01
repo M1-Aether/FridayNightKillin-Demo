@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="give-up.png">
+<SubTexture name="give-up selected0000" x="0" y="0" width="710" height="91" frameX="0" frameY="0" frameWidth="710" frameHeight="91" />
+<SubTexture name="give-up normal0000" x="0" y="91" width="195" height="72" frameX="-248" frameY="-11" frameWidth="710" frameHeight="91" />
+</TextureAtlas>

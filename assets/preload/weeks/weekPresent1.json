@@ -1,0 +1,17 @@
+{
+	"songs": [
+		["The Usual", "killer1", [230, 0, 0]],
+		["Know the deal", "killer", [230, 0, 0]],
+		["Know your place", "killer", [230, 0, 0]]
+	],
+
+	"weekBackground": "killer",
+
+	"storyName": "VS Killer Sans",
+	"weekBefore": "",
+	"weekName": "Week Present 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

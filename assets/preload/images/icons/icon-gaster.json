@@ -1,0 +1,28 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				-10
+			],
+			"loop": false,
+			"anim": "gaster-losing",
+			"fps": 12,
+			"name": "gaster losing0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				25,
+				10
+			],
+			"loop": false,
+			"anim": "gaster-normal",
+			"fps": 1,
+			"name": "gaster normal0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"scale": 1
+}

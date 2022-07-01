@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				11,
+				5
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sans LEFT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				-5
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sans DOWN0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-31,
+				21
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sans UP0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-33,
+				16
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sans RIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-43,
+				1
+			],
+			"loop": false,
+			"fps": 1,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Sans rmiss0"
+		},
+		{
+			"offsets": [
+				-23,
+				8
+			],
+			"loop": false,
+			"fps": 1,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Sans lmiss0"
+		},
+		{
+			"offsets": [
+				-19,
+				-13
+			],
+			"loop": false,
+			"fps": 1,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Sans dmiss0"
+		},
+		{
+			"offsets": [
+				-32,
+				31
+			],
+			"loop": false,
+			"fps": 1,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Sans umiss0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sans idle0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/prequelkiller_NORMAL_SANS_ASSETS",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "presans",
+	"flip_x": true,
+	"healthbar_colors": [
+		50,
+		74,
+		141
+	],
+	"camera_position": [
+		-130,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
